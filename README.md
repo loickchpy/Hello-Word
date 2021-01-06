@@ -12,3 +12,7 @@ My first github project
 ### Un truc en gras
 
 On encadre le texte avec **deux étoiles**
+
+![alt text](https://i.pinimg.com/originals/99/b2/f0/99b2f0ef3888532238e57c615a89019a.jpg)
+
+
